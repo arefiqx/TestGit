@@ -1,0 +1,8 @@
+SEND hisham@willowglen.com.my webreport.client WebReport123
+CC aswan@willowglen.com.my webreport.client WebReport123
+#CC aelias30@gmail.com webreport.client WebReport123
+#SEND hisham@willowglen.com.my webreport.client WebReport123
+#SEND aelias30@yahoo.com webreport.client WebReport123
+#CC aelias30@yahoo.com webreport.client WebReport123
+SERVER_IP 192.168.32.134 192.168.32.84
+MASTER_XML 192.168.32.134
