@@ -9,3 +9,5 @@ int _tmain(int argc, _TCHAR* argv[])
 	return 0;
 }
 
+}
+var_main
